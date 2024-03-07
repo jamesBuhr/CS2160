@@ -1,0 +1,11 @@
+james buhr M/W CS2160
+
+(a)upload the assingment to  https://comparch.edu.cvut.cz/qtrvsim/app/ and import the assingment with "control+O"
+assignment outputs the string defined by the prompt and out puts it to the terminal.
+
+(b)  expected output "Enter a message: "
+could not get the program to read in from terminal
+(c) notes, slides from classes, 
+(d) a mountain of work and multiple projects that all take lots of time. 
+(e) Approximately 20 man hours
+(g) see attached 
