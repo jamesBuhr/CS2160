@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "uccs buhr_james mine sweepr/1.0.0": {
+        "runtime": {
+          "uccs buhr_james mine sweepr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uccs buhr_james mine sweepr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
