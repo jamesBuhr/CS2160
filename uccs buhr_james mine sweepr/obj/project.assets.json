@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
+      "projectUniqueName": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
       "projectName": "uccs buhr_james mine sweepr",
-      "projectPath": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
+      "projectPath": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
       "packagesPath": "C:\\Users\\jimbb\\.nuget\\packages\\",
-      "outputPath": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\obj\\",
+      "outputPath": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jimbb\\AppData\\Roaming\\NuGet\\NuGet.Config",

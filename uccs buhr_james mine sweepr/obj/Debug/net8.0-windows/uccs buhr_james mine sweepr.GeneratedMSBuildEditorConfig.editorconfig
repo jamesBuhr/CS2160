@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = uccs_buhr_james_mine_sweepr
-build_property.ProjectDir = C:\GithubRepos\CS2160\uccs buhr_james mine sweepr\
+build_property.ProjectDir = C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

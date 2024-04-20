@@ -15,3 +15,21 @@ C:\GithubRepos\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs 
 C:\GithubRepos\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.genruntimeconfig.cache
 C:\GithubRepos\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\ref\uccs buhr_james mine sweepr.dll
 C:\GithubRepos\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs_buhr_james_mine_sweepr.cell.resources
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\bin\Debug\net8.0-windows\uccs buhr_james mine sweepr.exe
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\bin\Debug\net8.0-windows\uccs buhr_james mine sweepr.deps.json
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\bin\Debug\net8.0-windows\uccs buhr_james mine sweepr.runtimeconfig.json
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\bin\Debug\net8.0-windows\uccs buhr_james mine sweepr.dll
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\bin\Debug\net8.0-windows\uccs buhr_james mine sweepr.pdb
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs_buhr_james_mine_sweepr.Cell.resources
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs_buhr_james_mine_sweepr.Form1.resources
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.csproj.GenerateResource.cache
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.AssemblyInfoInputs.cache
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.AssemblyInfo.cs
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.csproj.CoreCompileInputs.cache
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.sourcelink.json
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.dll
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\refint\uccs buhr_james mine sweepr.dll
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.pdb
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\uccs buhr_james mine sweepr.genruntimeconfig.cache
+C:\GithubRepos\CS2160\CS2160\uccs buhr_james mine sweepr\obj\Debug\net8.0-windows\ref\uccs buhr_james mine sweepr.dll

@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\",
+  "WorkspaceRootPath": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\cs2160\\uccs buhr_james mine sweepr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\cell.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\cs2160\\uccs buhr_james mine sweepr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\cs2160\\uccs buhr_james mine sweepr\\cell.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\cs2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:uccs buhr_james mine sweepr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\cell.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\uccs buhr_james mine sweepr\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\cs2160\\uccs buhr_james mine sweepr\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|c:\\githubrepos\\cs2160\\cs2160\\uccs buhr_james mine sweepr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6920E-CB40-4B83-8CA9-BADADEF51175}|uccs buhr_james mine sweepr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Program.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Program.cs",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +68,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "cell.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.cs",
+              "RelativeDocumentMoniker": "cell.cs",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.cs",
+              "RelativeToolTip": "cell.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:49:59.861Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs [Design]",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T06:57:07.342Z",
@@ -80,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.resx",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.resx",
               "RelativeDocumentMoniker": "Form1.resx",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.resx",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-04-11T03:16:43.302Z",
@@ -92,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "cell.cs [Design]",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.cs",
               "RelativeDocumentMoniker": "cell.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.cs [Design]",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.cs [Design]",
               "RelativeToolTip": "cell.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T03:16:32.502Z",
@@ -104,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "cell.resx",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.resx",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.resx",
               "RelativeDocumentMoniker": "cell.resx",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.resx",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.resx",
               "RelativeToolTip": "cell.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-04-11T03:16:24.218Z",
@@ -116,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "uccs buhr_james mine sweepr.csproj",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
               "RelativeDocumentMoniker": "uccs buhr_james mine sweepr.csproj",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\uccs buhr_james mine sweepr.csproj",
               "RelativeToolTip": "uccs buhr_james mine sweepr.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -129,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "cell.Designer.cs",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.Designer.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.Designer.cs",
               "RelativeDocumentMoniker": "cell.Designer.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.Designer.cs",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\cell.Designer.cs",
               "RelativeToolTip": "cell.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.Designer.cs",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,29 +167,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "cell.cs",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.cs",
-              "RelativeDocumentMoniker": "cell.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\cell.cs",
-              "RelativeToolTip": "cell.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAswGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T00:49:59.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs",
+              "DocumentMoniker": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\GithubRepos\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs",
+              "ToolTip": "C:\\GithubRepos\\CS2160\\CS2160\\uccs buhr_james mine sweepr\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAADABAAAAAAAAAAAAAEYBAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T04:15:43.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T04:15:43.092Z"
             }
           ]
         }

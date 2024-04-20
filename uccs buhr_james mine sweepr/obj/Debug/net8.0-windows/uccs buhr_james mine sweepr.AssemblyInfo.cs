@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uccs buhr_james mine sweepr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1ed9617f3c2967fe8f1b71871a4a0a5d310028f")]
 [assembly: System.Reflection.AssemblyProductAttribute("uccs buhr_james mine sweepr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uccs buhr_james mine sweepr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
